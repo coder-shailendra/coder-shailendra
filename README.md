@@ -1,5 +1,4 @@
-
- 👋, I'm Shailendra kumar</h1>
+👋 Hey there, I'm Shailendra Kumar
 <h3 align="center">Python & DSA learner | Problem Solver 🚀</h3>
 
 - 🔭 I’m currently working on **https://github.com/coder-shailendra**
@@ -12,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/coder-shailendra](https://github.com/coder-shailendra)
 
-- 📝 I regularly write articles on [Coming soon](Coming soon)
+- 📝 I regularly write articles on [Coming soon]
 
 - 💬 Ask me about **Python Basics, Arrays, Patterns, Recursion**
 
 - 📫 How to reach me **shailedrakumar25@gamil.com**
 
-- 📄 Know about my experiences [Learning phase](Learning phase)
+- 📄 Know about my experiences [Learning phase]
 
 - ⚡ Fun fact **I enjoy solving coding problems 😄**
 
